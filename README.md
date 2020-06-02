@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  background: #300;
+  background: #559;
 }
 
 .content {
-  max-width: 299px;
+  max-width: 550px;
   margin: auto;
   background: white;
   padding: 40px;
